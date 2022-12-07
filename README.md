@@ -12,6 +12,9 @@ I was also instrumental to the autoware attack setup and testing.
 ![apollo](./images/apollo.png)
 As well as the attack setup and testing for baidu apollo.
 
+[![apollodemo]](./images/yt.jpg )](https://www.youtube.com/watch?v=Gq4KYq3EPdY)
+Here I demonstrate some of the issues we had with the apollo AV stack.
+
 ![report](./images/report.png)
 In the report, I wrote the section about the Autoware.AI attack and the section about the attack prerequisites. 
 
